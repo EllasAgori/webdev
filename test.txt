@@ -1,0 +1,6 @@
+Ted Lerios
+19 May 2021
+Christchurch, NZ
+
+This is a test file to check that git is functioning correctly
+
