@@ -9,3 +9,5 @@ This text is the second change.
 This is the thrid change.
 
 This is the fourth change.
+
+This change is now a major update change.
