@@ -5,3 +5,5 @@ Christchurch, NZ
 This is a test file to check that git is functioning correctly
 
 This text is the second change.
+
+This is the thrid change.
